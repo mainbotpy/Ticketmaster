@@ -1,6 +1,6 @@
 # Ticketmaster bot<br>
 <b>Advanced Ticketmaster Ticket Buying Bot</b><br>
-Version 1.6.1<br>
+Version 2.2 <br>
 <br>
 If your desired tickets are listed on Ticketmaster but the tickets are being sold out just after being listed, you can try out my bots.<br>
 <br>
